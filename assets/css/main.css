@@ -348,6 +348,7 @@ input, select, textarea {
 		border-bottom-color: rgba(0, 0, 0, 0.2);
 	}
 
+
 /* Row */
 
 	.row {
@@ -2679,6 +2680,8 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		
+
 
 /* List */
 
