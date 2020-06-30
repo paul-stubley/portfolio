@@ -4916,10 +4916,16 @@ input, select, textarea {
 				border-radius: 0;
 			}
 
-			.spotlight.style1 .image .contain {
+			.spotlight.style1 .image .contain_grey {
 				object-fit: contain;
 				padding: 10px;
 				background-color:rgb(237,237,237);
+			}
+
+			.spotlight.style1 .image .contain_white {
+				object-fit: contain;
+				padding: 10px;
+				background-color:rgb(255, 255, 255);
 			}
 
 
@@ -4984,8 +4990,15 @@ input, select, textarea {
 
 				.spotlight.style1 .image img {
 					position: relative;
+					max-height: 6cm;
 				}
 
+				.spotlight.style1 .image embed {
+					position: relative;
+					min-height: 6cm;
+					max-height: 6cm;
+
+				}
 	}
 
 		.spotlight.style1.orient-right {
