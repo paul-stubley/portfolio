@@ -7,3 +7,4 @@
 - [ ] Min height for NYC map (e.g for mobile viewing)
 - [ ] Max height for package image (for mobile)
 - [ ] Gradient decent heatmap animations (with draw your own boundary?)
+- [ ] Set max width of entire page so it doesn't spread so much on fullscreen?
