@@ -29,7 +29,12 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+html {
+	background-color:#eeeeee;
+}
 body {
+	max-width: 1500px;
+	margin: auto;
 	line-height: 1;
 }
 
